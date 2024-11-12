@@ -7,6 +7,7 @@ import {
   FixedLine,
   Vector
 } from './src/physicsplain.js'
+import { sendLog } from './src/log.js'
 
 /*
  * Main entry point.
@@ -43,6 +44,7 @@ class Example1 extends State {
   }
 
   initBodies () {
+    sendLog({example: "Example1"})
     this.movingBodies = [
       new Body(0).setOrigin(-1.3, 0).finalize(),
       new Body(1).setOrigin(-0.4, 0.09).finalize(),
@@ -135,6 +137,7 @@ class Example2 extends State {
   }
 
   initBodies () {
+    sendLog({example: "Example2"})
     this.movingBodies = [
       new Body(0).setOrigin(-0.7, 0.5).finalize(),
       new Body(1).setOrigin(-0.5, 0.5).finalize(),
@@ -227,6 +230,7 @@ class Example3 extends State {
   }
 
   initBodies () {
+    sendLog({example: "Example3"})
     this.movingBodies = [
       new Body(0).setOrigin(-0.9, 0.4).finalize(),
       new Body(1).setOrigin(-0.8, 0.28).finalize(),
@@ -317,6 +321,7 @@ class Example4 extends State {
   }
 
   initBodies () {
+    sendLog({example: "Example4"})
     this.movingBodies = [
       new Body(0).setOrigin(-0.8, 0.35).finalize(),
       new Body(1).setOrigin(-0.8, 0.05).finalize(),

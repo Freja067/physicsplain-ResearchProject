@@ -1,4 +1,5 @@
 import { Collision } from './collision.js'
+import { logMessage } from './log.js'
 
 /**
  * Abstract state class that advances moving bodies. It collides moving bodies
@@ -161,6 +162,7 @@ export class State {
           if (collision !== null) {
             collisions.push(collision)
           }
+          logMessage('movingBody1:', movingBody1.id, 'movingBody2:', movingBody2.id)
         }
       }
     }

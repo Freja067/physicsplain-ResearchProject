@@ -24,7 +24,7 @@ export class Body {
     this.mass = 1
     this.velocity = new Vector(0, 0)
     this.angularVelocity = 0
-
+    
     this.lateralFriction = 1
     this.rotationalFriction = 1
 
@@ -470,4 +470,6 @@ export class Body {
       collision.collisionPoints.push(collisionPoint)
     }
   }
+
+
 }

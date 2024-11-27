@@ -1,4 +1,5 @@
 import { Collision } from './collision.js'
+import { sendLogC } from './logHandler.js'
 
 /**
  * Abstract state class that advances moving bodies. It collides moving bodies
@@ -159,7 +160,14 @@ export class State {
             this.restitution
           )
           if (collision !== null) {
-            collisions.push(collision)
+            collisions.push(collision);
+
+            // Send the collision data to the server
+            sendLogC({
+              body1Id: movingBody1.id,
+              body2Id: movingBody2.id,
+              example: movingBody1.exampleID
+            });
           }
         }
       }

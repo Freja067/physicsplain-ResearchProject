@@ -1,5 +1,5 @@
 import { Collision } from './collision.js'
-import {  sendLog } from './log.js'
+import {  sendLogC } from './log.js'
 
 /**
  * Abstract state class that advances moving bodies. It collides moving bodies
@@ -163,7 +163,7 @@ export class State {
           if (collision !== null) {
             collisions.push(collision)
 
-            sendLog({exampleId: exampleId, body1Id: movingBody1.id, body2Id: movingBody2.id});
+          sendLogC({msg: 'collision detected. Moving bodies', exampleId: exampleId, body1Id: movingBody1.id, body2Id: movingBody2.id});
 
           }
         }
@@ -184,7 +184,7 @@ export class State {
           )
           if (collision !== null) {
             collisions.push(collision)
-            sendLog({ exampleId: exampleId, fixedBodyId: fixedBody.id, movingBody: movingBody.id});
+            sendLogC({ msg: 'collision detected. Moving to fixed body', exampleId: exampleId, fixedBodyId: fixedBody.id, movingBody: movingBody.id});
 
           }
         }

@@ -1,22 +1,16 @@
-import express from 'express';
-import path from 'path';
-import bodyParser from 'body-parser';
-import winston from 'winston';
-import { fileURLToPath } from 'url';
-import { dirname } from 'path';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
-
+// server.js
+const express = require('express');
+const path = require('path');
+const bodyParser = require('body-parser');
+const winston = require('winston');
 const app = express();
 const PORT = 3000;
 
-// Create the logger
 const logger = winston.createLogger({
   level: 'info',
   format: winston.format.json(),
   transports: [
-    new winston.transports.File({ filename: 'collisionLog.log' })
+    new winston.transports.File({ filename: './logs/collisionLog.log' })
   ]
 });
 
@@ -27,12 +21,22 @@ app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
 // Log endpoint
-app.post('/log', (req, res) => {
+app.post('/log/collision', (req, res) => {
   const logMessage = req.body; // Assuming logs are sent as JSON
-  //console.log('Received log:', logMessage); // For verification in the console
 
-  // Log the message using Winston
-  logger.info(logMessage);
+  // Use Bunyan to log the received message
+  logger.info(logMessage, 'collision detected');
+
+  // Respond to the client
+  res.status(200).send('Log received');
+});
+
+// Log endpoint
+app.post('/log/init', (req, res) => {
+  const logMessage = req.body; // Assuming logs are sent as JSON
+
+  // Use Bunyan to log the received message
+  logger.info(logMessage, 'initialized');
 
   // Respond to the client
   res.status(200).send('Log received');
@@ -42,3 +46,4 @@ app.post('/log', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running at http://localhost:${PORT}`);
 });
+

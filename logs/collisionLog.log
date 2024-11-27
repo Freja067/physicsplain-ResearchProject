@@ -1,0 +1,1416 @@
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example2","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example2","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example2","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example2","msg":"initialized"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example2","msg":"initialized"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example2","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example1","msg":"initialized"}}
+{"level":"info","message":{"example":"Example2","msg":"initialized"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example3","msg":"initialized"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":4,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":32,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":9,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example1","fixedBodyId":10,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":2,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":4,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":3,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example4","fixedBodyId":3,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":30,"movingBody":2,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":3,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":4,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example3","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":2,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":3,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":4,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":33,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":6,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":2,"body2Id":3,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":5,"body2Id":7,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":6,"body2Id":8,"exampleId":"Example1","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example3","fixedBodyId":31,"movingBody":1,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":0,"body2Id":1,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":4,"body2Id":5,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"body1Id":1,"body2Id":4,"exampleId":"Example2","msg":"collision detected. Moving bodies"}}
+{"level":"info","message":{"example":"Example4","msg":"initialized"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":6,"movingBody":0,"msg":"collision detected. Moving to fixed body"}}
+{"level":"info","message":{"exampleId":"Example2","fixedBodyId":7,"movingBody":5,"msg":"collision detected. Moving to fixed body"}}

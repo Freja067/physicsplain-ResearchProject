@@ -1,5 +1,5 @@
 import { Collision } from './collision.js'
-import { logMessage } from './log.js'
+import { sendLogC } from './log.js'
 
 /**
  * Abstract state class that advances moving bodies. It collides moving bodies
@@ -141,6 +141,7 @@ export class State {
   collide (timestep) {
     const collisions = []
 
+    const exampleId = this.constructor.name //to identify the example id
     // collide movable bodies with each other
     const lookedAt = new Set()
     for (const movingBody1 of this.getMovingBodies()) {
@@ -161,9 +162,11 @@ export class State {
           )
           if (collision !== null) {
             collisions.push(collision)
+
+            sendLogC({msg: 'collision detected. Moving bodies', exampleId: exampleId, body1Id: movingBody1.id, body2Id: movingBody2.id});
+        
           }
-          logMessage('movingBody1:', movingBody1.id, 'movingBody2:', movingBody2.id)
-        }
+          }
       }
     }
 
@@ -181,7 +184,11 @@ export class State {
           )
           if (collision !== null) {
             collisions.push(collision)
+
+            sendLogC({ msg: 'collision detected. Moving to fixed body', exampleId: exampleId, fixedBodyId: fixedBody.id, movingBody: movingBody.id});
+
           }
+          
         }
       }
     }

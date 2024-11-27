@@ -1,0 +1,978 @@
+{"level":30,"time":1732696545565,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":7}
+{"level":30,"time":1732696545583,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":6}
+{"level":30,"time":1732696545589,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":8}
+{"level":30,"time":1732696545592,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":7,"body2Id":8}
+{"level":30,"time":1732696545597,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":1}
+{"level":30,"time":1732696545598,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696546180,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":0}
+{"level":30,"time":1732696546182,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":2}
+{"level":30,"time":1732696546186,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696546190,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":6}
+{"level":30,"time":1732696546318,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":8}
+{"level":30,"time":1732696546389,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696546393,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696546401,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":7}
+{"level":30,"time":1732696546403,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696546474,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":7}
+{"level":30,"time":1732696546490,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696546497,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":8}
+{"level":30,"time":1732696546500,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":5}
+{"level":30,"time":1732696546666,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example1"}
+{"level":30,"time":1732696546669,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example2"}
+{"level":30,"time":1732696546673,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example3"}
+{"level":30,"time":1732696546674,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696546933,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":2}
+{"level":30,"time":1732696546936,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696546963,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696546968,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696546970,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696546997,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696547000,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696547027,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696547060,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696547095,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696547169,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696547170,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696547196,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696547200,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696547264,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696547267,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696547304,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696547305,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696547307,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696547333,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696547337,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696547341,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696547343,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696547344,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696547346,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696547366,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696547369,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696547395,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696547400,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696547402,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696547428,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696547431,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696547467,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696547469,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696547471,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696547472,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696547498,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696547501,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696547503,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696547540,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696547542,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696547543,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696547545,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696547546,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696547548,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696547550,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696547552,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696547553,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696547559,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696547561,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696547564,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696547566,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696547568,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696547570,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696547572,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696547573,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696547575,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696547576,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696547578,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696547595,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696547599,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696547602,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696547604,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696547632,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696547636,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696547637,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696547640,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696547642,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696547644,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":2}
+{"level":30,"time":1732696547645,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":3}
+{"level":30,"time":1732696547661,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":2}
+{"level":30,"time":1732696547665,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":3}
+{"level":30,"time":1732696547668,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696547697,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696547759,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696547763,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696547795,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696547797,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696547801,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696547861,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696547864,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696547867,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696547869,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696547929,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696547963,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":2,"body2Id":3}
+{"level":30,"time":1732696547997,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696548000,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696548028,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696548030,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696548064,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696548067,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696548071,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696548074,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696548132,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696548137,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696548139,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696548141,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696548164,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696548168,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696548397,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":2,"body2Id":3}
+{"level":30,"time":1732696548430,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696548433,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696548530,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696548599,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696548604,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696548771,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696548776,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696548781,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696548797,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696548831,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696548833,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696548834,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696548899,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696548901,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696548906,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696548910,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696549035,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696549040,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696549165,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696549363,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696549668,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696549998,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696550002,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696550200,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696550304,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696550501,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696550536,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696550671,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example1"}
+{"level":30,"time":1732696550674,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example3"}
+{"level":30,"time":1732696550703,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696550769,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696550771,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696550935,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":2}
+{"level":30,"time":1732696550969,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696550971,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696551011,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696551015,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696551018,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696551037,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696551041,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696551070,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696551105,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696551106,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696551173,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696551176,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696551239,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696551247,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696551273,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696551305,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696551311,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696551313,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696551314,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696551317,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696551336,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696551340,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696551344,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696551346,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696551347,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696551371,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696551372,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696551374,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696551406,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696551409,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696551410,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696551437,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696551439,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696551473,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696551475,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696551505,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696551507,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696551509,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696551511,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696551540,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696551543,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696551545,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696551549,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696551551,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696551552,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696551554,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696551556,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696551559,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696551572,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696551574,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696551576,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696551578,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696551580,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696551581,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696551640,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696551644,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696551647,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696551706,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696551774,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696551777,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696551806,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696551807,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696551838,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696551871,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696551873,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696551905,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696551907,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696551910,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696551912,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696551972,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696552039,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696552041,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696552074,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696552076,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696552107,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696552109,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696552138,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696552173,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696552177,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696552206,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696552211,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696552341,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696552345,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696552474,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696552476,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696552675,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696552808,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696552843,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696552846,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696552848,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696553344,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696553544,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696553546,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696553644,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example2"}
+{"level":30,"time":1732696553709,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696554209,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696554546,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696554548,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696554578,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696554580,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696554622,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696554624,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696554626,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696554628,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696554630,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696554632,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696554650,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":2}
+{"level":30,"time":1732696554652,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":3}
+{"level":30,"time":1732696554655,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":2}
+{"level":30,"time":1732696554657,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":3}
+{"level":30,"time":1732696554681,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example1"}
+{"level":30,"time":1732696554683,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example3"}
+{"level":30,"time":1732696554945,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":2,"body2Id":3}
+{"level":30,"time":1732696554947,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":2}
+{"level":30,"time":1732696554979,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696554982,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696555015,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696555019,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696555025,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696555046,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696555049,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696555051,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696555079,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696555116,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696555119,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696555156,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696555159,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696555182,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696555183,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696555248,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696555251,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696555281,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696555284,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696555313,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696555316,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696555347,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696555351,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696555353,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696555355,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696555358,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696555382,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696555385,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":2,"body2Id":3}
+{"level":30,"time":1732696555388,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696555389,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696555413,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696555416,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696555419,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696555448,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696555450,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696555481,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696555484,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696555487,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696555490,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696555514,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696555517,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696555519,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696555549,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696555554,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696555556,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696555558,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696555559,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696555560,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696555561,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696555562,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696555563,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696555597,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696555599,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696555603,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696555606,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696555609,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696555625,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696555628,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696555630,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696555650,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696555651,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696555653,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696555683,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696555715,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696555747,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696555749,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696555781,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696555784,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696555786,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696555815,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696555819,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696555846,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696555884,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696555889,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696555890,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696555893,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696555917,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696555922,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696555923,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696555924,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696555982,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696556052,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696556059,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696556062,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696556064,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696556083,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696556085,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696556122,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696556124,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696556184,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696556186,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696556188,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696556217,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696556220,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696556348,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696556382,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696556450,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696556452,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696556553,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696556554,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696556718,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696556821,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696556853,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696556858,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696556860,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696556987,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696556989,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696557756,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696557758,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696558055,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696558222,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696558326,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696558329,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696558692,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example1"}
+{"level":30,"time":1732696558696,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example3"}
+{"level":30,"time":1732696558698,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696558926,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696558929,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696558957,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":2}
+{"level":30,"time":1732696558993,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696558997,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696558998,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696559001,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696559026,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696559057,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696559092,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696559093,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696559126,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696559128,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696559192,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696559194,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696559260,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696559264,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696559291,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696559294,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696559329,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696559331,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696559333,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696559337,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696559338,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696559358,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696559362,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696559364,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696559366,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696559367,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696559393,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696559395,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696559397,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696559428,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696559430,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696559432,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696559460,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696559464,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696559493,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696559496,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696559502,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696559504,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696559526,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696559529,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696559531,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696559562,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696559568,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696559569,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696559572,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696559576,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696559577,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696559578,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696559594,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696559598,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696559602,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696559610,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696559611,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696559613,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696559616,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696559617,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696559618,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696559662,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696559662,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696559669,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696559692,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696559727,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696559795,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696559798,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696559829,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696559833,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696559861,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696559895,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696559898,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696559928,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696559930,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696559997,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696560067,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696560068,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696560094,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696560097,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696560126,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696560130,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696560195,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696560197,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696560230,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696560234,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696560462,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696560466,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696560664,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example2"}
+{"level":30,"time":1732696560830,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696560865,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696560869,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696560872,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696561567,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696561572,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696561599,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696561603,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696561633,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696561637,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696561639,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696561641,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696561643,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696561645,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696561666,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":2}
+{"level":30,"time":1732696561669,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":3}
+{"level":30,"time":1732696561671,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":2}
+{"level":30,"time":1732696561672,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":3}
+{"level":30,"time":1732696561699,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696561965,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":2,"body2Id":3}
+{"level":30,"time":1732696562070,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696562071,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696562168,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696562172,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696562234,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696562334,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696562401,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":2,"body2Id":3}
+{"level":30,"time":1732696562537,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696562541,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696562568,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696562601,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696562604,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696562703,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example1"}
+{"level":30,"time":1732696562704,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example3"}
+{"level":30,"time":1732696562706,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696562769,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696562772,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696562801,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696562903,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696562905,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696562939,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696562942,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696562969,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":2}
+{"level":30,"time":1732696563011,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696563013,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696563038,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696563041,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696563044,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696563070,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696563073,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696563077,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696563101,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696563136,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696563170,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696563206,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696563210,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696563212,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696563269,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696563270,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696563303,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696563337,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696563340,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696563342,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696563370,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696563408,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696563410,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696563411,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696563413,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696563415,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696563418,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696563419,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696563444,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696563445,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696563446,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696563449,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696563473,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696563475,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696563501,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696563503,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696563537,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696563539,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696563569,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696563572,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696563573,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696563578,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696563581,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696563581,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696563605,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696563611,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696563613,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696563615,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696563617,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696563618,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696563620,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696563621,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696563623,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696563626,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696563627,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696563671,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696563675,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696563704,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696563737,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696563805,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696563808,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696563838,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696563873,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696563875,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696563906,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696563908,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696563939,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696563942,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696564008,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696564012,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696564015,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696564073,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696564076,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696564107,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696564108,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696564140,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696564143,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696564207,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696564209,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696564239,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696564242,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696564507,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696564509,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696564709,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696564776,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696564780,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696564877,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696564878,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696564881,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696564908,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696565077,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696565343,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696565346,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696565348,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696565541,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696565577,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696565742,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696565945,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696565947,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696566145,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696566243,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696566346,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696566349,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696566713,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example1"}
+{"level":30,"time":1732696566715,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example3"}
+{"level":30,"time":1732696566982,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":2}
+{"level":30,"time":1732696567014,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696567017,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696567047,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696567048,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696567052,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696567081,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696567112,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696567150,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696567181,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696567214,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696567216,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696567282,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696567285,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696567314,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696567349,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696567352,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696567354,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696567379,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696567417,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696567420,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696567422,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696567424,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696567426,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696567427,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696567449,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696567454,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696567455,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696567457,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696567483,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696567485,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696567515,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696567517,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696567551,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696567555,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696567584,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696567586,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696567590,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696567592,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696567595,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696567597,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696567620,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696567622,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696567624,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696567628,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696567630,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696567632,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696567636,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696567637,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696567641,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696567648,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696567652,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696567680,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696567684,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696567686,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example2"}
+{"level":30,"time":1732696567716,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696567719,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696567751,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696567819,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696567821,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696567849,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696567882,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696567884,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696567917,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696567920,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696567950,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696567952,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696568016,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696568083,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696568086,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696568117,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696568120,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696568151,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696568153,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696568219,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696568222,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696568249,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696568251,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696568385,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696568515,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696568517,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696568588,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696568589,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696568591,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696568594,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696568595,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696568598,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696568617,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696568619,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696568650,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696568653,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696568655,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696568657,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696568688,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":2}
+{"level":30,"time":1732696568690,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":3}
+{"level":30,"time":1732696568691,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":2}
+{"level":30,"time":1732696568694,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":3}
+{"level":30,"time":1732696568749,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696568850,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696568884,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696568887,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696568917,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696568984,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":2,"body2Id":3}
+{"level":30,"time":1732696569050,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696569053,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696569155,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696569157,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696569420,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":2,"body2Id":3}
+{"level":30,"time":1732696569553,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696569621,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696569623,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696569790,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696569793,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696569795,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696569922,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696569924,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696569955,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696569958,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696570089,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696570091,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696570188,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696570254,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696570388,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696570724,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example1"}
+{"level":30,"time":1732696570727,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example3"}
+{"level":30,"time":1732696570729,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696570991,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":2}
+{"level":30,"time":1732696571028,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696571031,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696571035,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696571038,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696571055,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696571057,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696571059,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696571090,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696571124,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696571158,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696571191,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696571224,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696571228,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696571289,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696571292,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696571322,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696571357,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696571359,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696571360,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696571391,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696571393,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696571396,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696571400,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696571402,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696571404,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696571423,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696571425,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696571460,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696571461,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696571464,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696571465,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696571491,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696571493,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696571526,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696571528,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696571559,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696571561,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696571598,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696571599,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696571601,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696571602,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696571603,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696571605,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696571609,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696571611,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696571613,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696571615,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696571616,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696571617,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696571624,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696571625,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696571627,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696571628,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696571632,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696571633,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696571634,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696571692,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696571695,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696571697,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696571759,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696571761,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696571795,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696571798,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696571827,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696571829,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696571860,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696571895,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696571896,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696571928,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696571932,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696571960,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696571962,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696572028,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696572093,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696572094,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696572097,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696572126,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696572128,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696572158,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696572160,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696572228,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696572230,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696572258,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696572261,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696572326,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696572328,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696572528,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696572530,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696572860,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696572897,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696572900,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696572928,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696572963,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696572965,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696573163,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696573365,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696573366,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696573731,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696574267,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696574366,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696574567,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696574599,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696574700,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example2"}
+{"level":30,"time":1732696574735,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example1"}
+{"level":30,"time":1732696574737,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example3"}
+{"level":30,"time":1732696574739,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696574999,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":2}
+{"level":30,"time":1732696575035,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696575037,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696575069,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696575071,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696575074,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696575101,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696575134,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696575169,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696575201,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696575236,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696575238,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696575304,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696575306,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696575334,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696575371,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696575373,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696575375,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696575405,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696575407,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696575409,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696575410,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696575412,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":0}
+{"level":30,"time":1732696575435,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696575437,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696575470,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696575472,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696575474,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696575476,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696575502,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696575505,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696575537,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696575541,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696575569,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696575572,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696575610,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696575614,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696575615,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696575617,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696575619,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696575620,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696575621,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696575623,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696575624,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696575626,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696575629,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696575630,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696575637,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696575640,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696575641,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":32,"movingBody":1}
+{"level":30,"time":1732696575642,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":1,"body2Id":3}
+{"level":30,"time":1732696575643,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":2,"body2Id":4}
+{"level":30,"time":1732696575646,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":9,"movingBody":3}
+{"level":30,"time":1732696575648,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example1","fixedBodyId":10,"movingBody":4}
+{"level":30,"time":1732696575651,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696575652,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":2}
+{"level":30,"time":1732696575654,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696575655,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696575669,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696575672,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696575673,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":1}
+{"level":30,"time":1732696575675,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":4}
+{"level":30,"time":1732696575708,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696575709,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696575710,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696575711,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":2}
+{"level":30,"time":1732696575714,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":3}
+{"level":30,"time":1732696575715,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":2}
+{"level":30,"time":1732696575717,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":3}
+{"level":30,"time":1732696575772,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696575837,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696575838,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696575870,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696575903,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696575907,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":30,"movingBody":2}
+{"level":30,"time":1732696575935,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":3}
+{"level":30,"time":1732696575937,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":4}
+{"level":30,"time":1732696575969,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696575971,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696576002,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":2,"body2Id":3}
+{"level":30,"time":1732696576038,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example3","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696576104,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":3,"body2Id":5}
+{"level":30,"time":1732696576107,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":4,"body2Id":6}
+{"level":30,"time":1732696576110,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":2}
+{"level":30,"time":1732696576113,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":3,"body2Id":4}
+{"level":30,"time":1732696576137,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696576142,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696576172,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696576174,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696576206,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696576208,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696576239,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":4,"movingBody":1}
+{"level":30,"time":1732696576240,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":33,"movingBody":1}
+{"level":30,"time":1732696576272,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696576274,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":0,"body2Id":6}
+{"level":30,"time":1732696576440,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":2,"body2Id":3}
+{"level":30,"time":1732696576544,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":5,"body2Id":7}
+{"level":30,"time":1732696576545,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example1","body1Id":6,"body2Id":8}
+{"level":30,"time":1732696576570,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696576638,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696576641,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696576748,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"initialized","example":"Example4"}
+{"level":30,"time":1732696576816,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696576817,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696576821,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":5}
+{"level":30,"time":1732696576870,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696576905,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696576908,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696576938,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696576941,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696576942,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example3","fixedBodyId":31,"movingBody":1}
+{"level":30,"time":1732696576972,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":0,"body2Id":1}
+{"level":30,"time":1732696576975,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":4,"body2Id":5}
+{"level":30,"time":1732696577107,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696577110,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}
+{"level":30,"time":1732696577208,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696577374,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":4,"movingBody":2}
+{"level":30,"time":1732696577408,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving bodies","exampleId":"Example2","body1Id":1,"body2Id":4}
+{"level":30,"time":1732696577574,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":1}
+{"level":30,"time":1732696577609,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":0}
+{"level":30,"time":1732696577742,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example4","fixedBodyId":3,"movingBody":2}
+{"level":30,"time":1732696578043,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":6,"movingBody":0}
+{"level":30,"time":1732696578044,"pid":10252,"hostname":"Frejas-MacBook-Air-4.local","msg":"collision detected. Moving to fixed body","exampleId":"Example2","fixedBodyId":7,"movingBody":5}

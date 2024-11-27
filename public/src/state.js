@@ -141,6 +141,8 @@ export class State {
   collide (timestep) {
     const collisions = []
 
+    const exampleId = this.constructor.name
+
     // collide movable bodies with each other
     const lookedAt = new Set()
     for (const movingBody1 of this.getMovingBodies()) {
@@ -164,9 +166,10 @@ export class State {
 
             // Send the collision data to the server
             sendLogC({
+              collisionType: 'Moving bodies',
               body1Id: movingBody1.id,
               body2Id: movingBody2.id,
-              example: movingBody1.exampleID
+              example: exampleId
             });
           }
         }
@@ -187,6 +190,13 @@ export class State {
           )
           if (collision !== null) {
             collisions.push(collision)
+
+            sendLogC({
+              collisionType: 'Moving to fixed body',
+              fixedBody: fixedBody.id,
+              movingBody: movingBody.id,
+              example: exampleId
+            });
           }
         }
       }

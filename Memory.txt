@@ -1,0 +1,171 @@
+Memory Usage: {
+  rss: '49.55 MB',
+  heapTotal: '18.00 MB',
+  heapUsed: '11.88 MB',
+  external: '2.02 MB'
+}
+Memory Usage: {
+  rss: '51.14 MB',
+  heapTotal: '18.50 MB',
+  heapUsed: '10.89 MB',
+  external: '2.03 MB'
+}
+^C
+(base) FrejaVindum@frejas-macbook-air-4 physicsplain-ResearchProject % node server.js
+Server is running at http://localhost:3000
+Memory Usage: {
+  rss: '49.79 MB',
+  heapTotal: '17.75 MB',
+  heapUsed: '11.87 MB',
+  external: '2.02 MB'
+}
+Memory Usage: {
+  rss: '51.66 MB',
+  heapTotal: '18.00 MB',
+  heapUsed: '10.63 MB',
+  external: '2.03 MB'
+}
+Memory Usage: {
+  rss: '52.00 MB',
+  heapTotal: '18.50 MB',
+  heapUsed: '11.97 MB',
+  external: '2.03 MB'
+}
+Memory Usage: {
+  rss: '48.13 MB',
+  heapTotal: '13.75 MB',
+  heapUsed: '9.34 MB',
+  external: '2.04 MB'
+}
+Memory Usage: {
+  rss: '50.18 MB',
+  heapTotal: '15.00 MB',
+  heapUsed: '11.16 MB',
+  external: '2.02 MB'
+}
+Memory Usage: {
+  rss: '53.09 MB',
+  heapTotal: '20.00 MB',
+  heapUsed: '12.11 MB',
+  external: '2.03 MB'
+}
+Memory Usage: {
+  rss: '56.19 MB',
+  heapTotal: '14.75 MB',
+  heapUsed: '13.25 MB',
+  external: '2.03 MB'
+}
+Memory Usage: {
+  rss: '56.85 MB',
+  heapTotal: '24.50 MB',
+  heapUsed: '9.05 MB',
+  external: '2.01 MB'
+}
+Memory Usage: {
+  rss: '58.82 MB',
+  heapTotal: '24.50 MB',
+  heapUsed: '9.99 MB',
+  external: '2.02 MB'
+}
+Memory Usage: {
+  rss: '60.11 MB',
+  heapTotal: '24.50 MB',
+  heapUsed: '12.48 MB',
+  external: '2.03 MB'
+}
+Memory Usage: {
+  rss: '60.34 MB',
+  heapTotal: '24.50 MB',
+  heapUsed: '12.60 MB',
+  external: '2.02 MB'
+}
+Memory Usage: {
+  rss: '60.83 MB',
+  heapTotal: '33.75 MB',
+  heapUsed: '11.63 MB',
+  external: '2.03 MB'
+}
+Memory Usage: {
+  rss: '63.32 MB',
+  heapTotal: '33.75 MB',
+  heapUsed: '16.38 MB',
+  external: '2.08 MB'
+}
+Memory Usage: {
+  rss: '65.57 MB',
+  heapTotal: '33.75 MB',
+  heapUsed: '14.88 MB',
+  external: '2.05 MB'
+}
+Memory Usage: {
+  rss: '67.82 MB',
+  heapTotal: '33.75 MB',
+  heapUsed: '15.11 MB',
+  external: '2.03 MB'
+}
+Memory Usage: {
+  rss: '67.82 MB',
+  heapTotal: '34.00 MB',
+  heapUsed: '15.87 MB',
+  external: '2.02 MB'
+}
+Memory Usage: {
+  rss: '67.90 MB',
+  heapTotal: '34.25 MB',
+  heapUsed: '21.22 MB',
+  external: '2.08 MB'
+}
+Memory Usage: {
+  rss: '69.15 MB',
+  heapTotal: '35.75 MB',
+  heapUsed: '20.71 MB',
+  external: '2.05 MB'
+}
+Memory Usage: {
+  rss: '71.34 MB',
+  heapTotal: '47.25 MB',
+  heapUsed: '9.47 MB',
+  external: '2.02 MB'
+}
+Memory Usage: {
+  rss: '71.35 MB',
+  heapTotal: '47.25 MB',
+  heapUsed: '15.62 MB',
+  external: '2.09 MB'
+}
+Memory Usage: {
+  rss: '76.93 MB',
+  heapTotal: '47.25 MB',
+  heapUsed: '20.67 MB',
+  external: '2.14 MB'
+}
+Memory Usage: {
+  rss: '77.60 MB',
+  heapTotal: '27.75 MB',
+  heapUsed: '13.15 MB',
+  external: '2.02 MB'
+}
+Memory Usage: {
+  rss: '77.61 MB',
+  heapTotal: '28.00 MB',
+  heapUsed: '16.86 MB',
+  external: '2.06 MB'
+}
+Memory Usage: {
+  rss: '77.61 MB',
+  heapTotal: '40.00 MB',
+  heapUsed: '13.87 MB',
+  external: '2.07 MB'
+}
+Memory Usage: {
+  rss: '77.61 MB',
+  heapTotal: '40.00 MB',
+  heapUsed: '11.24 MB',
+  external: '2.01 MB'
+}
+çMemory Usage: {
+  rss: '77.74 MB',
+  heapTotal: '40.00 MB',
+  heapUsed: '15.39 MB',
+  external: '2.06 MB'
+}

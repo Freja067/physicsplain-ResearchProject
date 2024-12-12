@@ -23,6 +23,19 @@ app.use(bodyParser.json());
 // Serve static files from the "public" directory
 app.use(express.static(path.join(__dirname, 'public')));
 
+function logMemoryUsage() {
+  const memoryUsage = process.memoryUsage();
+  console.log('Memory Usage:', {
+    rss: `${(memoryUsage.rss / 1024 / 1024).toFixed(2)} MB`, // Resident Set Size
+    heapTotal: `${(memoryUsage.heapTotal / 1024 / 1024).toFixed(2)} MB`, // Total heap allocated
+    heapUsed: `${(memoryUsage.heapUsed / 1024 / 1024).toFixed(2)} MB`, // Heap actually used
+    external: `${(memoryUsage.external / 1024 / 1024).toFixed(2)} MB` // External memory used
+  });
+
+}
+
+setInterval(logMemoryUsage, 5000);
+
 // Log endpoint
 app.post('/log/collision', (req, res) => {
   const logMessage = req.body; // Assuming logs are sent as JSON

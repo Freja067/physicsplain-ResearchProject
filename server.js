@@ -34,13 +34,6 @@ function logMemoryUsage() {
     external: `${(memoryUsage.external / 1024 / 1024).toFixed(2)} MB` // External memory used
   });
 
-  // Log memory usage with winston
-  //logger.info({
-  //  rss: memoryUsage.rss,
-  //  heapTotal: memoryUsage.heapTotal,
-  //  heapUsed: memoryUsage.heapUsed,
-  //  external: memoryUsage.external
-  //}, 'Memory Usage');
 }
 
 // Log memory usage every 5 seconds

@@ -48,7 +48,7 @@ def run_experiment(repetitions):
 
 # Run the experiment
 if __name__ == "__main__":
-    repetitions = 10  # Number of times to run the experiment
+    repetitions = 100  # Number of times to run the experiment
     results, avg_time = run_experiment(repetitions)
 
     if results:

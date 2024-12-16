@@ -38,7 +38,9 @@ app.post('/log/collision', (req, res) => {
   const logMessage = req.body; // Assuming logs are sent as JSON
 
   // Use Bunyan to log the received message
+  console.time()
   logger.info(logMessage);
+  console.timeEnd()
 
   // Respond to the client
   res.status(200).send('Log received');

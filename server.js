@@ -37,7 +37,7 @@ function logMemoryUsage() {
 }
 
 // Log memory usage every 5 seconds
-setInterval(logMemoryUsage, 5000); // You can adjust the interval as needed
+// setInterval(logMemoryUsage, 5000); // You can adjust the interval as needed
 
 // Start the server
 app.listen(PORT, () => {
@@ -50,7 +50,9 @@ app.listen(PORT, () => {
 // Collision log endpoint
 app.post('/log/collision', (req, res) => {
   const logMessage = req.body; // Assuming logs are sent as JSON
+  console.time()
   logger.info(logMessage, 'Collision detected');
+  console.timeEnd()
   res.status(200).send('Log received');
 });
 
